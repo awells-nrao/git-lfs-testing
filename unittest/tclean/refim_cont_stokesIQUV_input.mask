@@ -1,0 +1,1 @@
+../../image/refim_cont_stokesIQUV_input.mask

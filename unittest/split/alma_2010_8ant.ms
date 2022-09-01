@@ -1,0 +1,1 @@
+../../measurementset/alma/alma_2010_8ant.ms

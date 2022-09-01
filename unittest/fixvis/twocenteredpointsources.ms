@@ -1,0 +1,1 @@
+../../measurementset/alma/twocenteredpointsources.ms

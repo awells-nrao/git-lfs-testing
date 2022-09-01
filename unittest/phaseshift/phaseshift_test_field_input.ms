@@ -1,0 +1,1 @@
+../../measurementset/vla/phaseshift_test_field_input.ms

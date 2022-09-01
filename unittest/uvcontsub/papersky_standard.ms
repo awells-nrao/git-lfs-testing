@@ -1,0 +1,1 @@
+../../measurementset/evla/papersky_standard.ms

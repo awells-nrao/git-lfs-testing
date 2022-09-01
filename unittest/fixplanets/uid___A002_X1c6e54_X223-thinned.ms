@@ -1,0 +1,1 @@
+../../measurementset/alma/uid___A002_X1c6e54_X223-thinned.ms

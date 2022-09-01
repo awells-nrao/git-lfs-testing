@@ -1,0 +1,1 @@
+../../measurementset/alma/X1127a.smaller.ms

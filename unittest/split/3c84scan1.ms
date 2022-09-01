@@ -1,0 +1,1 @@
+../../measurementset/evla/3c84scan1.ms

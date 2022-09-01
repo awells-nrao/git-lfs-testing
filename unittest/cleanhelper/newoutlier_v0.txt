@@ -1,0 +1,1 @@
+../../text/newoutlier_v0.txt

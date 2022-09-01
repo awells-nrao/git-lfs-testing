@@ -1,0 +1,1 @@
+../../measurementset/vla/combine-1-timestamp-2-SPW-with-WEIGHT_SPECTRUM-Different-Exposure.ms

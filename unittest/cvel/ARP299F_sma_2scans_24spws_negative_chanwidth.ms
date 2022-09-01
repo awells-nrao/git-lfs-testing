@@ -1,0 +1,1 @@
+../../measurementset/other/ARP299F_sma_2scans_24spws_negative_chanwidth.ms

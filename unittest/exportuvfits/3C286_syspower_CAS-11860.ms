@@ -1,0 +1,1 @@
+../../measurementset/evla/3C286_syspower_CAS-11860.ms

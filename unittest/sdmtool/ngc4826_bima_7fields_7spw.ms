@@ -1,0 +1,1 @@
+../../measurementset/other/ngc4826_bima_7fields_7spw.ms

@@ -1,0 +1,1 @@
+../../measurementset/almasd/X320b_sel2.ms

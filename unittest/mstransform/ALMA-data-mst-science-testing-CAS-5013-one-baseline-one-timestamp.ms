@@ -1,0 +1,1 @@
+../../measurementset/alma/ALMA-data-mst-science-testing-CAS-5013-one-baseline-one-timestamp.ms

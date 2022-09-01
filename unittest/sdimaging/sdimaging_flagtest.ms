@@ -1,0 +1,1 @@
+../../measurementset/almasd/sdimaging_flagtest.ms

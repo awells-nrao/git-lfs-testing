@@ -1,0 +1,1 @@
+../../measurementset/evla/Four_ants_3C286_spw9_small_for_timeavg.ms

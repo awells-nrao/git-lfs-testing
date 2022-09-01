@@ -1,0 +1,1 @@
+../../measurementset/alma/uid___A002_X72c4aa_X8f5_scan21_spw18_field2_corrXX.ms

@@ -1,0 +1,1 @@
+../../measurementset/alma/Band7multi_april22.ms/

@@ -1,0 +1,2 @@
+unittest/** filter=lfs diff=lfs merge=lfs -text
+measurementset/** filter=lfs diff=lfs merge=lfs -text

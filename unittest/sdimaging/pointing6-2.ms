@@ -1,0 +1,1 @@
+../../measurementset/almasd/pointing6-2.ms

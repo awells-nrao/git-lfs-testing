@@ -1,0 +1,1 @@
+../../measurementset/vla/phaseshift_test_frames_expected.ms

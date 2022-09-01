@@ -1,0 +1,1 @@
+../../measurementset/vla/ctb80-vsm.ms

@@ -1,0 +1,1 @@
+../../measurementset/vla/four_rows_weight_spectrum.ms

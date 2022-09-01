@@ -1,0 +1,1 @@
+../../measurementset/evla/auto_antposcorr_evla_gencal.ms

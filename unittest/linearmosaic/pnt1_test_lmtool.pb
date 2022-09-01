@@ -1,0 +1,1 @@
+../../image/pnt1_test_lmtool.pb

@@ -1,0 +1,1 @@
+../../measurementset/almasd/azelpointing.ms

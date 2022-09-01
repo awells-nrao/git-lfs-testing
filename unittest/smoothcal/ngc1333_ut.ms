@@ -1,0 +1,1 @@
+../../measurementset/vla/ngc1333_ut.ms

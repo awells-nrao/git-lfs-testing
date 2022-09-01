@@ -1,0 +1,1 @@
+../../measurementset/evla/evla_15A-397_spw1_7_scan_4_6.ms

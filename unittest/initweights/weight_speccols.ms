@@ -1,0 +1,1 @@
+../../measurementset/alma/weight_speccols.ms

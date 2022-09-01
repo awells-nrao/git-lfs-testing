@@ -1,0 +1,1 @@
+../../measurementset/alma/settrop_split_ant_spw.ms/

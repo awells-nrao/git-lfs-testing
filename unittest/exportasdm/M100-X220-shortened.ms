@@ -1,0 +1,1 @@
+../../measurementset/alma/M100-X220-shortened.ms

@@ -1,0 +1,1 @@
+../../image/refim_cube_StokesI_input.mask

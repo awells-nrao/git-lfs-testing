@@ -1,0 +1,1 @@
+../../measurementset/other/uvfits_test.ms

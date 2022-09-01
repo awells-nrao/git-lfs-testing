@@ -1,0 +1,1 @@
+../../measurementset/almasd/selection_spw.ms

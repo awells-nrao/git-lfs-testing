@@ -1,0 +1,1 @@
+../../measurementset/almasd/clipping_2rows.ms

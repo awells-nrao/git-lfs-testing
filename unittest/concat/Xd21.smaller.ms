@@ -1,0 +1,1 @@
+../../measurementset/alma/Xd21.smaller.ms

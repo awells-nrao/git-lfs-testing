@@ -1,0 +1,1 @@
+../../measurementset/other/sdimaging.ms

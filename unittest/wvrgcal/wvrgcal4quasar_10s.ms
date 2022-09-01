@@ -1,0 +1,1 @@
+../../measurementset/alma/wvrgcal4quasar_10s.ms

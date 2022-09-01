@@ -1,0 +1,1 @@
+../../measurementset/evla/bogusCDSP.ms

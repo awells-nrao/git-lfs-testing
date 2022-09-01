@@ -1,0 +1,1 @@
+../../measurementset/vla/jupiter6cm.demo-thinned.ms

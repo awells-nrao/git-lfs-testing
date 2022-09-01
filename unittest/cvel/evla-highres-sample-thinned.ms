@@ -1,0 +1,1 @@
+../../measurementset/evla/evla-highres-sample-thinned.ms

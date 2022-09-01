@@ -1,0 +1,1 @@
+../../measurementset/almasd/Uranus2.cal.Ant0.spw34.ms

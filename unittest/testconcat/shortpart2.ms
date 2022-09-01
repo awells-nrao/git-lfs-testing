@@ -1,0 +1,1 @@
+../../measurementset/alma/shortpart2.ms

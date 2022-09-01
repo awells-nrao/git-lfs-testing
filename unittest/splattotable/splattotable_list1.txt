@@ -1,0 +1,1 @@
+../../text/splattotable_list1.txt

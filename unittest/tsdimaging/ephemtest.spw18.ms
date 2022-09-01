@@ -1,0 +1,1 @@
+../..//measurementset/almasd/ephemtest.spw18.ms

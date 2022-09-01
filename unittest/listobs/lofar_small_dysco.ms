@@ -1,0 +1,1 @@
+../../measurementset/other/lofar_small_dysco.ms

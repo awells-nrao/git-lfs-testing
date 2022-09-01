@@ -1,0 +1,1 @@
+../../measurementset/alma/nep2-shrunk.ms

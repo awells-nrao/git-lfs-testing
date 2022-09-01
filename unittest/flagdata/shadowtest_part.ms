@@ -1,0 +1,1 @@
+../../measurementset/vla/shadowtest_part.ms

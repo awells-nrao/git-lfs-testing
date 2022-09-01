@@ -1,0 +1,1 @@
+../../measurementset/almasd/squares.dec60_cs.ms

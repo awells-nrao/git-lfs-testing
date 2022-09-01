@@ -1,0 +1,1 @@
+../../text/visstat2_test6_scan.txt
